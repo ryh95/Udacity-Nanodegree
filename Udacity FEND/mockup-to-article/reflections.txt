@@ -1,0 +1,25 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  * What new skills have you learned?
+  * What has been easy?
+  * What has been difficult?
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+---
+
+Your response goes here!
+
+What new skills have you learned?
+
+Well, I learned HTML language, it's cool.
+
+What has been easy?
+
+I think the easy part is the language itself is easy to understand and it is very straightforward when you drag your html file into a browser like Chrome, you'll know the result immediately.
+
+What has been difficult?
+
+I think three parts are difficult.First, coding is some kind of inconvenient, you konw, you always need to complete a tag name before writing some content.So, if you are focused on the content, you'll be annoyed by frequently typing a tag name.Second, if there are a lot of styles in a html file they'll be hard to manage or control, you need to spend time on finding the styles first.Third,lots of tags are unfamiliar to me, I need to do a huge mount of search.
+
+How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+For the first coding inconvenient challenge, I installed some plug-ins for sublime to solve.For the second challenge, there aren't too many styles to control so I ignored.For the third challenge, Google, MDN element reference, hint you mentioned, are good resources for me.
