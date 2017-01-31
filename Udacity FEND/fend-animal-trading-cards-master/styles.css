@@ -1,0 +1,31 @@
+/* add your CSS here */
+/*italicized text for the animal's interesting fact*/
+.fact {
+	font-style: italic;
+}
+/*bolded labels for the animal's list items*/
+span{
+	font-weight: bold;
+}
+/*remove dots for the animal's list items*/
+ul{
+	list-style: none;
+	padding-left: 0;
+}
+/*border around the animal's name, image, and information*/
+.outer_border{
+	border: groove;
+	width: 320px;
+}
+/*border around the animal's information*/
+.inner_border{
+	border: groove;
+}
+/*spacing between the animal's name, image, and information*/
+.pad{
+	padding: 0.5em;
+}
+/*resize the image*/
+img{
+	width: 300px;
+}
