@@ -17,6 +17,6 @@ DLND
 - [x] Your first Neural Network
 - [x] Image Classification
 - [x] Language Translation
-
+- [x] Generate Faces
 
 
